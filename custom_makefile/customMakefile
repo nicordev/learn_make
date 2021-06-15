@@ -1,0 +1,5 @@
+
+# To use it, run:
+#     make --file=customMakefile hello
+hello:
+	@echo 'Hello World! From customMakefile'
